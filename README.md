@@ -1,0 +1,2 @@
+# maxMoves
+substring remover/counter
